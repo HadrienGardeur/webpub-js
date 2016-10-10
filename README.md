@@ -9,7 +9,7 @@ In its current state, it can already be re-used, as long as a publication links 
 
 It is meant to be embedded in the resources of the publication, this project is not a Web App meant to display Web Publications. 
 
-For the Web App use case, check [Dave Cramer's ACME Publishing](https://github.com/dauwhe/epub-zero/tree/gh-pages/acme-publishing).
+For the Web App use case, check [Web Publication Viewer](https://github.com/HadrienGardeur/webpub-viewer) or [Dave Cramer's ACME Publishing](https://github.com/dauwhe/epub-zero/tree/gh-pages/acme-publishing).
 
 ##Current Features
 
