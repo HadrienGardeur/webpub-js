@@ -24,6 +24,6 @@ A separate Wiki page is available with a list of potential features that are rel
 
 ##Live Demo
 
-A live demo of a Web Publication is available at: https://hadriengardeur.github.io/webpub-manifest/examples/MobyDick/index.html
+A live demo of a Web Publication enhanced by Web Publication JS is available at: https://hadriengardeur.github.io/webpub-manifest/examples/progressive-enhancements/index.html
 
-The manifest for this demo is available at: https://hadriengardeur.github.io/webpub-manifest/examples/MobyDick/manifest.json
+The manifest for this demo is available at: https://hadriengardeur.github.io/webpub-manifest/examples/progressive-enhancements/manifest.json
