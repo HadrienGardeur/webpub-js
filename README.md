@@ -11,18 +11,18 @@ It is meant to be embedded in the resources of the publication, this project is 
 
 For the Web App use case, check [Web Publication Viewer](https://github.com/HadrienGardeur/webpub-viewer) or [Dave Cramer's ACME Publishing](https://github.com/dauwhe/epub-zero/tree/gh-pages/acme-publishing).
 
-##Current Features
+## Current Features
 
 The current version of the Web Publication JS supports the following features:
 
 - resources from the publication are cached and served offline by a Service Worker using a network first then cache policy
 - navigation between documents is injected in the current document using a `<nav>` element
 
-##Potential Features
+## Potential Features
 
 A separate Wiki page is available with a list of potential features that are relevant in Web Publications: https://github.com/HadrienGardeur/webpub-manifest/wiki/Web-Publication-JS-Features
 
-##Live Demo
+## Live Demo
 
 A live demo of a Web Publication enhanced by Web Publication JS is available at: https://hadriengardeur.github.io/webpub-manifest/examples/progressive-enhancements/index.html
 
